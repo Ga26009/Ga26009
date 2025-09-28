@@ -10,10 +10,7 @@
 
   
   <br>
-    👇 Visit my Docker Hub profile<br>
-   <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
-      <img src="https://img.shields.io/static/v1?label=docker&message=hub&color=blue"/>
-   </a>
+
    
 </p>
 
@@ -23,18 +20,15 @@
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
-- 🎓 &nbsp; Graduated in Computer Engineering
-- :rocket: &nbsp; Learning; Deep Learning for NLP in Python
-- 💼 &nbsp; I live in Istanbul/TURKEY 
+- 🎓 &nbsp; Student computer engineer
+
 
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | ElectronJS | React NATIVE
-- 🌐 &nbsp; HTML | CSS  | Bootstrap | Php | Nest.JS
+- 🌐 &nbsp; HTML | CSS   | Nest.JS
 - 🛢 &nbsp; MongoDB | MySQL | SQL Server
 - 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
-- ⚡ &nbsp; RabbitMQ  | Mqtt | Kafka | ElasticSearch | Redis | Microservices
-- ⚡ &nbsp; Docker | Web Socket | Nginx | DevOps
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 
